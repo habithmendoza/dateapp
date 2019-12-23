@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dateapp/static/css/main.b11a18bc.chunk.css",
+    "main.js": "/dateapp/static/js/main.1b68ca64.chunk.js",
+    "main.js.map": "/dateapp/static/js/main.1b68ca64.chunk.js.map",
+    "runtime-main.js": "/dateapp/static/js/runtime-main.6838f17c.js",
+    "runtime-main.js.map": "/dateapp/static/js/runtime-main.6838f17c.js.map",
+    "static/js/2.7a60793b.chunk.js": "/dateapp/static/js/2.7a60793b.chunk.js",
+    "static/js/2.7a60793b.chunk.js.map": "/dateapp/static/js/2.7a60793b.chunk.js.map",
+    "index.html": "/dateapp/index.html",
+    "precache-manifest.aa2c6812519fd4b3750bdbe96344654b.js": "/dateapp/precache-manifest.aa2c6812519fd4b3750bdbe96344654b.js",
+    "service-worker.js": "/dateapp/service-worker.js",
+    "static/css/main.b11a18bc.chunk.css.map": "/dateapp/static/css/main.b11a18bc.chunk.css.map",
+    "static/js/2.7a60793b.chunk.js.LICENSE": "/dateapp/static/js/2.7a60793b.chunk.js.LICENSE",
+    "static/media/index.css": "/dateapp/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6838f17c.js",
+    "static/js/2.7a60793b.chunk.js",
+    "static/css/main.b11a18bc.chunk.css",
+    "static/js/main.1b68ca64.chunk.js"
+  ]
+}
